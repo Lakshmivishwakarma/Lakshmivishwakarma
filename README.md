@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lakshmivishwakarma
 - 👀 I’m interested in UI Development
-- 🌱 I’m currently learning **JavaScript, Bootstrap, HTML, CSS, React**
 - 📫 How to reach me **lvlaxmi.1995@gmail.com**
 
 <!---
