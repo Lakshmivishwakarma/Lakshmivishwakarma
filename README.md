@@ -40,7 +40,7 @@ I'm dedicated to writing clean, maintainable code and building user-friendly int
 
 ## 📝 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/lakshmiv11](https://linkedin.com/in/lakshmiv11)
+- **LinkedIn:** [linkedin.com/in/vishwakarmalakshmi](https://linkedin.com/in/vishwakarmalakshmi)
 - **Email:** lakshmi.vishwakarma2021@gmail.com
 
 Feel free to reach out for collaborations, tech discussions, or just a friendly chat! 🚀
